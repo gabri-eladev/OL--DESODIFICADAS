@@ -1,0 +1,23 @@
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #711376;
+    text-shadow: 3px 3px 1px rgb(239, 227, 227);
+  }
+
+h2{
+   color:blueviolet
+
+}
+
+html {
+    background-color: #6c4d71;
+  }
+ 
+body {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #dacfdb;
+    padding: 0 10px 10px 10px;
+    border: 10px solid rgb(117, 4, 106);
+  }
